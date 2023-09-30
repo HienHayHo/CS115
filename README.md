@@ -1,2 +1,2 @@
 # CS115
-Some ML algors implementations.
+Some ML algors implementations and maybe some projects.
